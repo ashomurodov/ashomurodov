@@ -8,4 +8,4 @@ My Name is Ayyuub Shomurodov
 
 ### Languages and tools I work width:
 
-<code><img src="https://w7.pngwing.com/pngs/390/229/png-transparent-logo-html5-brand-design-text-logo-number.png"></code>
+<code><img src="[https://w7.pngwing.com/pngs/390/229/png-transparent-logo-html5-brand-design-text-logo-number.png](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/167_Html5_logo_logos-1024.png)" width="30px"></code>
