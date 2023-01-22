@@ -2,3 +2,10 @@
 
 My Name is Ayyuub Shomurodov
 <div>I'm learning JavaScript <img src="https://avatars.mds.yandex.net/i?id=be0b39eb8548453534f20072adeb3baf_l-5169470-images-thumbs&n=13" width="14px"></div>
+
+
+<br/>
+
+### Languages and tools I work width:
+
+<code><img src="https://w7.pngwing.com/pngs/390/229/png-transparent-logo-html5-brand-design-text-logo-number.png"></code>
