@@ -2,11 +2,13 @@
 
 My Name is Ayyuub Shomurodov
 <div>I'm learning JavaScript <img src="https://avatars.mds.yandex.net/i?id=be0b39eb8548453534f20072adeb3baf_l-5169470-images-thumbs&n=13" width="14px"></div>
-<!-- 
+ 
 
 <br/>
 
 ### Languages and tools I work width:
 
-<code><img src="https://user-images.githubusercontent.com/117643313/213907735-b09ba64b-f595-42b5-8c16-8bc5290f7f1e.png](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/HTML5_logo_black.svg/1200px-HTML5_logo_black.svg.png" width="30px"></code>
- -->
+
+<code><img src="https://cdn.icon-icons.com/icons2/3266/PNG/512/html_icon_207305.png" width="30px"></code>
+
+
