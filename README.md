@@ -8,4 +8,4 @@ My Name is Ayyuub Shomurodov
 
 ### Languages and tools I work width:
 
-<code><img src="![image](https://user-images.githubusercontent.com/117643313/213907735-b09ba64b-f595-42b5-8c16-8bc5290f7f1e.png)" width="30px"></code>
+<code><img src="https://user-images.githubusercontent.com/117643313/213907735-b09ba64b-f595-42b5-8c16-8bc5290f7f1e.png" width="30px"></code>
